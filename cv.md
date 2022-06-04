@@ -1,14 +1,17 @@
 # Boikov Aleksei
-
+![img](photo.jpg)
 **Associate professor, Ph.D.**
 **Lead Scientist of Research and Educational Center for Digital Technologies, Saint-Petersburg Mining Universuty**
 
 ## Contact information:
-**Phone:** +7 (123) 456 78 90 
+**Phone:** +7 (962) 709 76 37 
 
 **E-Mail:** bo4onok_s_romom@gmail.com
 
 **Telegram:** @bo4onoksromom
+
+**Scopus:** [Scopus Author ID: 57065230400](https://www.scopus.com/authid/detail.uri?authorId=57065230400)
+
 
 ## About Myself:
 In 2011 I graduated from St.-Petersburg Mining University with a degree in Automation and Control with a bachelor's degree.
@@ -54,5 +57,5 @@ I'm just a beginner frontender.
 # Language:
 * Russian - Native
 * English - B1 (Intermediate)
-![img](/rsschool-cv/English%20level.PNG)
+![img](English%20level.PNG)
 * Spanish - my dream...
