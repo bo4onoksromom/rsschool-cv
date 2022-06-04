@@ -1,5 +1,6 @@
 # Boikov Aleksei
 ![img](photo.jpg)
+
 **Associate professor, Ph.D.**
 **Lead Scientist of Research and Educational Center for Digital Technologies, Saint-Petersburg Mining Universuty**
 
@@ -12,6 +13,9 @@
 
 **Scopus:** [Scopus Author ID: 57065230400](https://www.scopus.com/authid/detail.uri?authorId=57065230400)
 
+**Discord:** Boikov Aleksei (@bo4onoksromom)
+
+**Web site:** [personal page](https://nc-digital.spmi.ru/ru/worker?p=1)
 
 ## About Myself:
 In 2011 I graduated from St.-Petersburg Mining University with a degree in Automation and Control with a bachelor's degree.
@@ -30,7 +34,7 @@ From 2020 to the present I have been working as a Lead Scientist of Research and
 
 
 ## Code example:
-I'm just a beginner frontender.
+I'm just a beginner.
 ```javascript
     alert('Hello world');
 ```
@@ -58,4 +62,9 @@ I'm just a beginner frontender.
 * Russian - Native
 * English - B1 (Intermediate)
 ![img](English%20level.PNG)
+
 * Spanish - my dream...
+
+
+# Citate:
+> Do you believe? You must believe! © Supreme (Robbie Williams)
