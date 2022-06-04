@@ -2,6 +2,7 @@
 ![img](photo.jpg)
 
 **Associate professor, Ph.D.**
+
 **Lead Scientist of Research and Educational Center for Digital Technologies, Saint-Petersburg Mining Universuty**
 
 ## Contact information:
@@ -61,10 +62,9 @@ I'm just a beginner.
 # Language:
 * Russian - Native
 * English - B1 (Intermediate)
+
 ![img](English%20level.PNG)
-
-* Spanish - my dream...
-
+* Spanish - only in dreams
 
 # Citate:
 > Do you believe? You must believe! © Supreme (Robbie Williams)
