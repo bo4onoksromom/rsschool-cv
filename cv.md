@@ -31,3 +31,9 @@ In 2015 I defended Ph.D. thesis at the National Mineral and Raw Materials Univer
 From 2018 to the present I have been working as an associate professor at the Department of Automation of Technological Processes and Production.
 
 From 2020 to the present I have been working as a Lead Scientist of Research and Educational Center for Digital Technologies.
+
+## Code example:
+I'm just a beginner.
+```javascript
+    alert('Hello world');
+```
