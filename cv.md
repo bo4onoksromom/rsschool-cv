@@ -1,4 +1,5 @@
 # Boikov Aleksei
+![img](boykov_aleksey_viktorovich.jpg)
 
 **Associate professor, Ph.D.**
 
@@ -11,11 +12,11 @@
 
 **Telegram:** @bo4onoksromom
 
-**Scopus Author ID:** 57065230400
+**Scopus Author ID:** [57065230400](https://www.scopus.com/authid/detail.uri?authorId=57065230400)
 
 **Discord:** Boikov Aleksei (@bo4onoksromom)
 
-**Web site:** personal page
+**Web site:** [personal page](https://nc-digital.spmi.ru/ru/worker?p=1)
 
 ## About Myself:
 In 2011 I graduated from St.-Petersburg Mining University with a degree in Automation and Control with a bachelor's degree.
@@ -60,6 +61,8 @@ I'm just a beginner.
 # Language:
 * Russian - Native
 * English - B1 (Intermediate)
+
+![img](eng_level.PNG)
 * Spanish - only in dreams
 
 # Citation:
