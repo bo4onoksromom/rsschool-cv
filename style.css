@@ -1,0 +1,81 @@
+/*подключение шрифтов*/
+@font-face {
+  font-family: Montserrat;
+   src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
+ }
+
+* {
+  box-sizing: border-box;
+}
+
+/* прижимаем футер */
+body {
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  flex-direction: column;
+}
+
+header {
+  background-color: #113060;
+  color:white;
+  }
+
+main {
+    border-left: 5px dotted #113060;
+    border-right: 5px dotted #113060;
+    margin: 0 5% 0 5%;
+    padding: 0 5% 2% 5%;
+    color:#113060;
+  }  
+
+footer {
+  background-color: #113060;
+  color:white;  
+  text-align: center;
+}   
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/*панель навигации*/
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: .3s;  
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.section-item a {
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+
+/* Плавный скрол */
+.html {
+  scroll-behavior: smooth; 
+}
+
+/* офромление кода */
+.code {
+    background-color:gray;
+    color:#ffffff;
+    font-size: 20px;
+}
+
+/* офромление цитаты */
+.cite {
+  background-color:gray;
+  color:#ffffff;
+  font-size: 20px;
+  line-height: 5px;
+}
