@@ -3,11 +3,6 @@
   font-family: Montserrat;
    src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
  }
- /* @font-face {
-  font-family: Montserrat;
-    src: url("assets/fonts/Montserrat-Italic-VariableFont_wght.ttf");
- } */
-
 
 * {
   box-sizing: border-box;
@@ -18,21 +13,25 @@ body {
   display: flex;
   font-family: 'Montserrat', sans-serif;
   flex-direction: column;
-  justify-content: space-between;
-  min-height: 100vh;
 }
 
 header {
-  border: 1px solid red;
+  background-color: #113060;
+  color:white;
   }
 
 main {
-    border: 1px solid green;
+    border-left: 5px dotted #113060;
+    border-right: 5px dotted #113060;
+    margin: 0 5% 0 5%;
+    padding: 0 5% 2% 5%;
+    color:#113060;
   }  
 
 footer {
-  border: 1px solid blue;
-  
+  background-color: #113060;
+  color:white;  
+  text-align: center;
 }   
 
 .container {
@@ -51,29 +50,32 @@ footer {
 .nav-link {
   padding: 0 20px;
   line-height: 50px;
-  transition: .3s;
+  transition: .3s;  
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .section-item a {
-  color: #829985;
   text-decoration: none;  
   transition: color 0.5s;
 }
-.section-item a:hover {
-  color: #4d2323;
-}
 
 /* Плавный скрол */
-html {
+.html {
   scroll-behavior: smooth; 
 }
 
 /* офромление кода */
-code {
-  background-color:solid #716e6e;
+.code {
+    background-color:gray;
+    color:#ffffff;
+    font-size: 20px;
 }
 
-/* офромление кода */
-cite {
-  background-color:solid #e01414;
+/* офромление цитаты */
+.cite {
+  background-color:gray;
+  color:#ffffff;
+  font-size: 20px;
+  line-height: 5px;
 }
