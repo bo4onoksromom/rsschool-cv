@@ -1,3 +1,32 @@
- h1 {
-    color: #00008B
+@font-face {
+  font-family: Roboto;
+   src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
+ }
+ @font-face {
+  font-family: Roboto;
+    src: url("assets/fonts/Montserrat-Italic-VariableFont_wght.ttf");
+ }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+header {
+  border: 1px solid red;
   }
+
+main {
+    border: 1px solid green;
+  }  
+
+footer {
+  border: 1px solid blue;
+  
+}   
