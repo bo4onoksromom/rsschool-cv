@@ -1,18 +1,22 @@
+/*подключение шрифтов*/
 @font-face {
-  font-family: Roboto;
+  font-family: Montserrat;
    src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
  }
- @font-face {
-  font-family: Roboto;
+ /* @font-face {
+  font-family: Montserrat;
     src: url("assets/fonts/Montserrat-Italic-VariableFont_wght.ttf");
- }
+ } */
+
 
 * {
   box-sizing: border-box;
 }
 
+/* прижимаем футер */
 body {
   display: flex;
+  font-family: 'Montserrat', sans-serif;
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
@@ -30,3 +34,46 @@ footer {
   border: 1px solid blue;
   
 }   
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/*панель навигации*/
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  transition: .3s;
+}
+
+.section-item a {
+  color: #829985;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.section-item a:hover {
+  color: #4d2323;
+}
+
+/* Плавный скрол */
+html {
+  scroll-behavior: smooth; 
+}
+
+/* офромление кода */
+code {
+  background-color:solid #716e6e;
+}
+
+/* офромление кода */
+cite {
+  background-color:solid #e01414;
+}
